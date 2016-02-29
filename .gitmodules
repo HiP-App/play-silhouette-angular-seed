@@ -1,0 +1,6 @@
+[submodule "play-silhouette-angular-seed"]
+	path = play-silhouette-angular-seed
+	url = git@github.com:mohiva/play-silhouette-angular-seed.git
+[submodule "HiPCMS"]
+	path = HiPCMS
+	url = https://github.com/HiP-App/HiPCMS
